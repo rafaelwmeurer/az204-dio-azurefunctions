@@ -13,7 +13,7 @@
 
 ### Configuração do Projeto
 
-1. Substitua o conteúdo do arquivo `AzureFunctions.cs` pelo código fornecido anteriormente
+1. Substitua o conteúdo do arquivo `AzureFunctions.cs` pelo código do arquivo **azure-fuctions-project.cs**.
 
 2. Adicione os pacotes necessários:
    ```bash

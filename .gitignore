@@ -1,0 +1,32 @@
+# Ignorar arquivos de configuração local
+local.settings.json
+*.local.json
+
+# Arquivos de build e compilação
+bin/
+obj/
+.vs/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos de configuração sensível
+*.pfx
+*.key
+
+# Arquivos temporários do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Pacotes NuGet
+*.nupkg
+**/packages/*
+
+# Configurações específicas de Azure Functions
+appsettings.json
